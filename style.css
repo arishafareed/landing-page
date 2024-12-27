@@ -1,0 +1,51 @@
+body{
+    margin: 1;
+    padding: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#navbar{
+    height: 25px;
+    color: white;
+    font-size: 18px;
+    padding: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: wavy;
+}
+
+#logo{
+    color:white;
+    margin: 0 380px 0 20px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800px;
+    font-size: xx-large;
+    text-decoration: wavy;
+}
+.color{
+    color: white;
+    margin: 0 40px 0 0 ;
+    text-decoration: wavy;
+}
+.btn{
+    padding: 4px;
+    background-color: red;
+    border-radius: 19px;
+    color: white;
+    margin: 6px;
+}
+.box{
+    text-align: center;
+    padding-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+textarea{
+    background-color: red;
+    width: 260px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    padding-top: 10px;
+}
+
+
